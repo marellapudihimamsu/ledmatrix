@@ -1,3 +1,20 @@
+/*
+  Led Matrix
+
+  This example shows how to create a Led Matrix
+  
+
+  
+
+  created April 2018
+  by M.Himamsu
+  modified June 2018
+  by M.Himamsu 
+
+
+*/
+
+
 void setup() {
   Serial.begin(9600);
   pinMode(2, OUTPUT);
